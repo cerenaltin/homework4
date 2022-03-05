@@ -1,0 +1,19 @@
+body {background-color:#FFEBC9;
+}
+h1 {color:#753422; 
+    font-family: 'Overpass Mono', monospace;
+}
+h2 {color:#B05B3B;
+    font-family: 'Charm', cursive; 
+    font-size: 24px 
+    ; 
+ }
+p {color:#D79771;
+    font-family: 'Charm', cursive; 
+    font-size: 24px;
+ }
+
+.resim{
+    border: 3px dashed #D79771;
+    border-radius: 10px 10px 10px 10px;
+     }
